@@ -79,11 +79,11 @@ input:invalid,textarea:invalid{border-radius:1px;-moz-box-shadow:0px 0px 5px red
 * {margin: 0; padding: 0;}
 
 /* Background Color */
-body {color: #000; background-color: #DDD;}
+body {color: #000; background-color: #fff;}
 
 body#home {
-  background: #DDD;
+  background: #fff;
   text-align: center;
 }
 
-body#home img {margin-top: 200px; width: 200px;}
+body#home img {margin-top: 144px; width: 144px;}
